@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Abaout Me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
