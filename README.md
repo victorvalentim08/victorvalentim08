@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Sou estudante de Análise e Desenvolvimento de Sistemas <br>- Estudo desenvolvimento web, usando ferramentas como JavaScript, Node.js e MySQL <br>- Experiências em suporte técnico e análise de TI @VicunhaTextil <br>- Atualmente, estou participando do programa Santander TECH+</p>
+<p align="left">- Sou estudante de Análise e Desenvolvimento de Sistemas <br>- Estudo desenvolvimento web, usando ferramentas como JavaScript, Node.js e MySQL <br>- Experiências em análise de TI @VicunhaTextil <br>- Atualmente, estou participando do programa Santander TECH+</p>
 
 ###
 
